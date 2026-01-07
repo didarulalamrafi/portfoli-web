@@ -15,11 +15,11 @@ body{
 }
 
 .btn{
-    padding: 18px 36px;
+    padding: 22px 36px;
     background-color: #FD6E0A;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 7px;
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
@@ -71,6 +71,12 @@ nav ul li a{
     align-items: center;
     justify-content: space-between;
     grid-area: 163px;
+}
+.banner-content .contact{
+    margin-left:  30px;
+    border: 2px solid #FD6E0A;
+    color: #FD6E0A;
+    background: none;
 }
 .banner-content h2{
     font-size: 45px;
